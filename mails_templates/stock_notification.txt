@@ -1,0 +1,9 @@
+[{shop_url}]
+
+Bonjour,
+
+Le stock de {product_name} a été mis à jour.
+
+Nouvelle quantité : {quantity}
+
+Email My Stock(tm) by ARPA3 [https://www.arpa3.fr] - Retrouvez nos Modules et Templates sur PrestaShop(tm) [http://www.prestashop.com/]
